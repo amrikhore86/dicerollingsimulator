@@ -16,3 +16,7 @@ If you are a absolute beginner , follow these steps :
 
 How to use?
 Click on the Roll button to roll the dice
+
+EDIT :
+I have compiled the code into an executable file
+Users can directly go to Executable folder and run simulator.exe by double clicking
